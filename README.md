@@ -47,3 +47,21 @@ We evaluated interpretability of VeST by investigating the factorization results
 MoonJeong Park (Daegu Gyeongnuk Institute of Science and Technology)  
 [Jung-Gi Jang](https://datalab.snu.ac.kr/~jkjang) (Seoul National University)  
 [Lee Sael](https://leesael.github.io/) (Seoul National University)
+
+## Reference
+
+If you use this code, please cite the following paper.
+
+```
+@inproceedings{ParkJS21,
+  author    = {Moonjeong Park and
+               Jun{-}Gi Jang and
+               Lee Sael},
+  title     = {{VEST:} Very Sparse Tucker Factorization of Large-Scale Tensors},
+  booktitle = {{IEEE} International Conference on Big Data and Smart Computing, BigComp
+               2021, Jeju Island, South Korea, January 17-20, 2021},
+  pages     = {172--179},
+  publisher = {{IEEE}},
+  year      = {2021}
+}
+```
